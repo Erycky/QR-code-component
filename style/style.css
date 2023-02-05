@@ -10,7 +10,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-size: 14px;
+    font-size: 1em;
     font-family: 'Outfit', sans-serif;
 }
 
@@ -51,21 +51,13 @@ body {
 
 .description h1 {
     color: var(--dark-blue);
-    font-size: 26px;
+    font-size: 1.6em;
     font-weight: 700;
     margin-bottom: 18px;
     letter-spacing: -1px;
 }
 
 .description p {
+    font-size: 0.9em;
     padding: 0 24px;
-}
-
-.attribution {
-    font-size: 11px;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }
